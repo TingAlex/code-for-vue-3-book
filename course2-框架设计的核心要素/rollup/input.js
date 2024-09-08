@@ -1,3 +1,4 @@
-import {foo} from './utils'
+import {foo, bar} from './utils'
 
 foo()
+bar()
